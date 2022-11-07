@@ -1,3 +1,2 @@
-rootProject.name = "PddRfLibrary"
-include ':app'
+rootProject.name = "pddlibrary"
 include ':pddlibrary'
