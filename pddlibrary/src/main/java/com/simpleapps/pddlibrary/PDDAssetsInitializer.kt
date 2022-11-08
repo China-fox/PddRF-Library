@@ -4,6 +4,8 @@ import android.content.Context
 import android.content.res.AssetManager
 import android.util.Log
 import androidx.startup.Initializer
+import kotlinx.serialization.decodeFromString
+import kotlinx.serialization.json.Json
 
 class PDDAssetsInitializer : Initializer<PDDAssetsInitializer.PDDTextProvider> {
 
@@ -29,6 +31,17 @@ class PDDAssetsInitializer : Initializer<PDDAssetsInitializer.PDDTextProvider> {
         companion object {
             var isInitialized = false
             var assets: AssetManager? = null
+
+            fun getAssetsByChapterNumber(num: String): PDDDto? {
+                assets?.let {
+                    val jsonString: String =
+                        it.open("2022/$num.json", AssetManager.ACCESS_STREAMING)
+                            .bufferedReader()
+                            .use { it.readText() }
+                    return Json.decodeFromString<PDDDto>(jsonString)
+                }
+                return null
+            }
         }
     }
 }
