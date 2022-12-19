@@ -39,7 +39,7 @@ class PDDSignDrawableProvider {
             SIGN_033 -> SignDrawable(R.drawable.a7_11, 1f, 1.8f)
             SIGN_034 -> SignDrawable(R.drawable.a4_1_2, 1f, 1f)
             SIGN_035 -> SignDrawable(R.drawable.a8_11, 2f, 1f)
-            SIGN_036 -> SignDrawable(R.drawable.a3_4, 1f, 1f)
+            SIGN_036, SIGN_231 -> SignDrawable(R.drawable.a3_4, 1f, 1f)
             SIGN_037 -> SignDrawable(R.drawable.a1_12_2, 1f, 1f)
             SIGN_038 -> SignDrawable(R.drawable.a8_2_1, 2f, 1f)
             SIGN_039 -> SignDrawable(R.drawable.a5_15_3, 3f, 1f)
@@ -118,9 +118,9 @@ class PDDSignDrawableProvider {
             SIGN_112 -> SignDrawable(R.drawable.a525, 4f, 1f)
             SIGN_113 -> SignDrawable(R.drawable.a1_25, 1f, 1f)
             SIGN_114 -> SignDrawable(R.drawable.a8_12, 2f, 1f)
-            SIGN_115 -> SignDrawable(R.drawable.a5_15_2, 1.8f, 1f)
+            SIGN_115, SIGN_232 -> SignDrawable(R.drawable.a5_15_2, 1.8f, 1f)
             SIGN_116 -> SignDrawable(R.drawable.h1_2, 4f, 1f)
-            SIGN_117 -> SignDrawable(R.drawable.a5_7_2, 4f, 1f)
+            SIGN_117, SIGN_233 -> SignDrawable(R.drawable.a5_7_2, 4f, 1f)
             SIGN_118 -> SignDrawable(R.drawable.a3_17_2, 1f, 1f)
             SIGN_119 -> SignDrawable(R.drawable.a5_26, 4f, 1f)
             SIGN_120 -> SignDrawable(R.drawable.a1_16, 1f, 1f)
@@ -234,6 +234,9 @@ class PDDSignDrawableProvider {
             SIGN_228 -> SignDrawable(R.drawable.a1_31, 1f, 1f)
             SIGN_229 -> SignDrawable(R.drawable.a6_8_3, 1f, 1f)
             SIGN_230 -> SignDrawable(R.drawable.a5_11_2, 1f, 1f)
+            SIGN_234 -> SignDrawable(R.drawable.a8_2_4, 1f, 2f)
+
+
 
             else -> SignDrawable(R.drawable.ic_help, 1f, 1f)
         }
@@ -470,6 +473,10 @@ class PDDSignDrawableProvider {
         const val SIGN_228 = "XZзнак 131XZ"
         const val SIGN_229 = "XZзнак 683XZ"
         const val SIGN_230 = "XZзнак 5112XZ"
+        const val SIGN_231 = "XZзнак34XZ"
+        const val SIGN_232 = "XZзнак5152XZ"
+        const val SIGN_233 = "XZзнак572XZ"
+        const val SIGN_234 = "XZзнак824XZ"
     }
 }
 
