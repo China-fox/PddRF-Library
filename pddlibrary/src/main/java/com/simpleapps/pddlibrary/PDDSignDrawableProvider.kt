@@ -235,6 +235,7 @@ class PDDSignDrawableProvider {
             SIGN_229 -> SignDrawable(R.drawable.a6_8_3, 1f, 1f)
             SIGN_230 -> SignDrawable(R.drawable.a5_11_2, 1f, 1f)
             SIGN_234 -> SignDrawable(R.drawable.a8_2_4, 1f, 2f)
+            SIGN_235 -> SignDrawable(R.drawable.h1_17_2, 2f, 1f)
 
 
 
@@ -477,6 +478,7 @@ class PDDSignDrawableProvider {
         const val SIGN_232 = "XZзнак5152XZ"
         const val SIGN_233 = "XZзнак572XZ"
         const val SIGN_234 = "XZзнак824XZ"
+        const val SIGN_235 = "XZразметка1172XZ"
     }
 }
 
