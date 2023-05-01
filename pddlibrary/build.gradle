@@ -7,6 +7,7 @@ plugins {
 
 android {
     compileSdk 32
+    namespace = 'com.simpleapps.pddlibrary'
 
     defaultConfig {
         minSdk 24
@@ -25,16 +26,22 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+    publishing {
+        singleVariant('release') {
+            withSourcesJar()
+        }
+    }
 }
+
 
 afterEvaluate {
     publishing {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.simpleapps'
-                artifactId = 'pdd'
-                version = '0.1.8'
+                groupId = 'com.github.China-fox'
+                artifactId = 'PddRF-Library'
+                version = '0.1.9'
             }
         }
     }
@@ -45,5 +52,5 @@ dependencies {
     implementation("androidx.core:core-ktx:1.7.0")
     implementation("androidx.appcompat:appcompat:1.5.1")
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.4.0")
-    implementation("androidx.startup:startup-runtime:1.2.0-alpha01")
+    implementation("androidx.startup:startup-runtime:1.2.0-alpha02")
 }
