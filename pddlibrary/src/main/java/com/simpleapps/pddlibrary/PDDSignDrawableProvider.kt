@@ -4,9 +4,9 @@ class PDDSignDrawableProvider {
 
     fun getDrawable(sign: String): SignDrawable {
         return when (sign) {
-            SIGN_001 -> SignDrawable(R.drawable.a111, 1f, 1f)
-            SIGN_002 -> SignDrawable(R.drawable.a1342, 3f, 1f)
-            SIGN_003 -> SignDrawable(R.drawable.a328, 1f, 1f)
+
+
+         //   SIGN_003 -> SignDrawable(R.drawable.a328, 1f, 1f)
             SIGN_004 -> SignDrawable(R.drawable.a514, 1f, 1f)
             SIGN_005 -> SignDrawable(R.drawable.a441, 1f, 1f)
             SIGN_006 -> SignDrawable(R.drawable.a452, 1f, 1f)
@@ -112,9 +112,9 @@ class PDDSignDrawableProvider {
             SIGN_106 -> SignDrawable(R.drawable.a6_2, 1f, 1f)
             SIGN_107 -> SignDrawable(R.drawable.a3_5, 1f, 1f)
             SIGN_108 -> SignDrawable(R.drawable.a3_9, 1f, 1f)
-            SIGN_109 -> SignDrawable(R.drawable.a843, 2f, 1f)
-            SIGN_110 -> SignDrawable(R.drawable.a862, 2f, 1f)
-            SIGN_111 -> SignDrawable(R.drawable.a869, 2f, 1f)
+//            SIGN_109 -> SignDrawable(R.drawable.a843, 2f, 1f)
+//            SIGN_110 -> SignDrawable(R.drawable.a862, 2f, 1f)
+//            SIGN_111 -> SignDrawable(R.drawable.a869, 2f, 1f)
             SIGN_112 -> SignDrawable(R.drawable.a525, 4f, 1f)
             SIGN_113 -> SignDrawable(R.drawable.a1_25, 1f, 1f)
             SIGN_114 -> SignDrawable(R.drawable.a8_12, 2f, 1f)
@@ -495,5 +495,6 @@ class PDDSignDrawableProvider {
 data class SignDrawable(
     val resId: Int,
     val width: Float,
-    val height: Float
+    val height: Float,
+    val coaf: Float = 1f
 )
