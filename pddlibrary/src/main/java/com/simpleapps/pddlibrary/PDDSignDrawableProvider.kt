@@ -188,6 +188,7 @@ class PDDSignDrawableProvider {
             SIGN_182 -> SignDrawable(R.drawable.regul2, 2f, 1f)
             SIGN_183 -> SignDrawable(R.drawable.regul3, 2f, 1f)
             SIGN_184 -> SignDrawable(R.drawable.perevozka_detey, 1f, 1f)
+            SIGN_241 -> SignDrawable(R.drawable.op_4, 1f, 1f)
             SIGN_185 -> SignDrawable(R.drawable.avar, 5f, 1f)
             SIGN_186 -> SignDrawable(R.drawable.pov_left, 2f, 1f)
             SIGN_187 -> SignDrawable(R.drawable.pov_right, 2f, 1f)
@@ -488,6 +489,10 @@ class PDDSignDrawableProvider {
         const val SIGN_238 = "XZзнак832XZ"
         const val SIGN_239 = "XZзнак833XZ"
         const val SIGN_240 = "XZразметка1171XZ"
+
+        const val SIGN_241 = "XZop_4XZ"
+
+
     }
 }
 

@@ -11,7 +11,7 @@ class PDDSignDrawableProviderNew {
             SIGN_007 -> SignDrawable(R.drawable.a454, 1f, 1f)
             Line_1_13, SIGN_008 -> SignDrawable(R.drawable.h1_13, 4f, 1f)
             SIGN_2_4, SIGN_009 -> SignDrawable(R.drawable.a2_4, 1f, 1f)
-            Line_1_18,   SIGN_010 -> SignDrawable(R.drawable.h1_18, 4f, 1f)
+            Line_1_18, SIGN_010 -> SignDrawable(R.drawable.h1_18, 4f, 1f)
             SIGN_4_6, SIGN_011 -> SignDrawable(R.drawable.a4_6, 1f, 1f)
             SIGN_4_7 -> SignDrawable(R.drawable.a4_7, 1f, 1f)
             SIGN_8_14, SIGN_012 -> SignDrawable(R.drawable.a8_14, 2f, 1f)
@@ -28,7 +28,7 @@ class PDDSignDrawableProviderNew {
             SIGN_5_1, SIGN_022 -> SignDrawable(R.drawable.a5_1, 1f, 1.8f)
             SIGN_5_2 -> SignDrawable(R.drawable.a5_2, 1f, 1.8f)
             SIGN_2_5, SIGN_023 -> SignDrawable(R.drawable.a2_5, 1f, 1f)
-            Line_1_12,   SIGN_024 -> SignDrawable(R.drawable.h1_12, 4f, 1f)
+            Line_1_12, SIGN_024 -> SignDrawable(R.drawable.h1_12, 4f, 1f)
             SIGN_8_16, SIGN_025 -> SignDrawable(R.drawable.a8_16, 2f, 1f)
             SIGN_8_15 -> SignDrawable(R.drawable.a8_15, 2f, 1f)
             SIGN_3_24, SIGN_026 -> SignDrawable(R.drawable.a3_24, 1f, 1f)
@@ -66,7 +66,7 @@ class PDDSignDrawableProviderNew {
             SIGN_1_12_2, SIGN_037 -> SignDrawable(R.drawable.a1_12_2, 1f, 1f)
             SIGN_8_2_1, SIGN_038 -> SignDrawable(R.drawable.a8_2_1, 2f, 1f)
             SIGN_5_15_3, SIGN_039 -> SignDrawable(R.drawable.a5_15_3, 3f, 1f)
-            Line_1_21,  SIGN_040 -> SignDrawable(R.drawable.h1_21, 4f, 1f)
+            Line_1_21, SIGN_040 -> SignDrawable(R.drawable.h1_21, 4f, 1f)
             SIGN_5_15_5, SIGN_041 -> SignDrawable(R.drawable.a5_15_5, 1f, 1f)
             Line_1_3, SIGN_042 -> SignDrawable(R.drawable.h1_3, 4f, 1f)
             SIGN_1_13, SIGN_043 -> SignDrawable(R.drawable.a1_13, 1f, 1f)
@@ -127,8 +127,8 @@ class PDDSignDrawableProviderNew {
             SIGN_8_2_2, SIGN_087 -> SignDrawable(R.drawable.a8_2_2, 1f, 2.2f)
             SIGN_6_15_2, SIGN_088 -> SignDrawable(R.drawable.a6_15_2, 3f, 1f)
             SIGN_6_15_3 -> SignDrawable(R.drawable.a6_15_3, 3f, 1f)
-            Line_2_1_1,    SIGN_089 -> SignDrawable(R.drawable.v2_1_1, 2f, 1f)
-            Line_2_1_3 , SIGN_090 -> SignDrawable(R.drawable.v2_1_3, 2f, 1f)
+            Line_2_1_1, SIGN_089 -> SignDrawable(R.drawable.v2_1_1, 2f, 1f)
+            Line_2_1_3, SIGN_090 -> SignDrawable(R.drawable.v2_1_3, 2f, 1f)
             Line_2_1_2 -> SignDrawable(R.drawable.v2_1_2, 2f, 1f)
             SIGN_5_6, SIGN_091 -> SignDrawable(R.drawable.a5_6, 1f, 1f)
             SIGN_1_21, SIGN_092 -> SignDrawable(R.drawable.a1_21, 1f, 1f)
@@ -136,7 +136,7 @@ class PDDSignDrawableProviderNew {
             SIGN_1_4_1, SIGN_094 -> SignDrawable(R.drawable.a1_4_1, 1f, 1.8f)
             SIGN_6_20_1, SIGN_095 -> SignDrawable(R.drawable.a6_20_1, 1f, 1f)
             SIGN_6_20_2 -> SignDrawable(R.drawable.a6_20_2, 1f, 1f)
-            Line_1_19,    SIGN_096 -> SignDrawable(R.drawable.h1_19, 4f, 1f)
+            Line_1_19, SIGN_096 -> SignDrawable(R.drawable.h1_19, 4f, 1f)
             SIGN_5_15_6, SIGN_097 -> SignDrawable(R.drawable.a5_15_6, 1f, 1f)
             Line_1_14_1, SIGN_098 -> SignDrawable(R.drawable.h1_14_1, 1f, 1.8f)
             Line_1_14_3 -> SignDrawable(R.drawable.h1_14_3, 1f, 1f)
@@ -146,7 +146,7 @@ class PDDSignDrawableProviderNew {
             SIGN_8_5_1, SIGN_100 -> SignDrawable(R.drawable.a8_5_1, 2f, 1f)
             SIGN_101 -> SignDrawable(R.drawable.dop8_7, 2f, 1f)
             SIGN_1_6, SIGN_102 -> SignDrawable(R.drawable.a1_6, 1f, 1f)
-            SIGN_5_25, SIGN_103 -> SignDrawable(R.drawable.a5_25, 4f, 1f, )
+            SIGN_5_25, SIGN_103 -> SignDrawable(R.drawable.a5_25, 4f, 1f)
             Line_1_23_1, SIGN_104 -> SignDrawable(R.drawable.h1_23_1, 4f, 1f)
             SIGN_5_3, SIGN_105 -> SignDrawable(R.drawable.a5_3, 1f, 1.8f)
             SIGN_5_4 -> SignDrawable(R.drawable.a5_4, 1f, 1.8f)
@@ -160,11 +160,11 @@ class PDDSignDrawableProviderNew {
             SIGN_112 -> SignDrawable(R.drawable.a525, 4f, 1f)
             SIGN_1_25, SIGN_113 -> SignDrawable(R.drawable.a1_25, 1f, 1f)
             SIGN_8_12, SIGN_114 -> SignDrawable(R.drawable.a8_12, 2f, 1f)
-            SIGN_5_15_2, SIGN_115, SIGN_232 -> SignDrawable(R.drawable.a5_15_2, 1.8f, 1f, )
+            SIGN_5_15_2, SIGN_115, SIGN_232 -> SignDrawable(R.drawable.a5_15_2, 1.8f, 1f)
             Line_1_2, SIGN_116 -> SignDrawable(R.drawable.h1_2, 4f, 1f)
             SIGN_5_7_2, SIGN_117, SIGN_233 -> SignDrawable(R.drawable.a5_7_2, 4f, 1f)
             SIGN_3_17_2, SIGN_118 -> SignDrawable(R.drawable.a3_17_2, 1f, 1f)
-            SIGN_5_26, SIGN_119 -> SignDrawable(R.drawable.a5_26, 4f, 1f, )
+            SIGN_5_26, SIGN_119 -> SignDrawable(R.drawable.a5_26, 4f, 1f)
             SIGN_1_16, SIGN_120 -> SignDrawable(R.drawable.a1_16, 1f, 1f)
             SIGN_3_30, SIGN_121 -> SignDrawable(R.drawable.a3_30, 1f, 1f)
             SIGN_5_23_1, SIGN_122 -> SignDrawable(R.drawable.a5_23_1, 4f, 1f)
@@ -183,14 +183,14 @@ class PDDSignDrawableProviderNew {
             SIGN_5_11_1, SIGN_133 -> SignDrawable(R.drawable.a5_11, 1f, 1f)
             SIGN_5_12_1 -> SignDrawable(R.drawable.a5_12_1, 1f, 1f)
             SIGN_5_12_2 -> SignDrawable(R.drawable.a5_12_2, 1f, 1f)
-            Line_2_7,   SIGN_134 -> SignDrawable(R.drawable.v2_7, 2f, 1f)
-            SIGN_6_9_1 -> SignDrawable(R.drawable.a6_9_1, 2f, 1f, )
-            SIGN_6_9_2 -> SignDrawable(R.drawable.a6_9_2, 1.8f, 1f, )
+            Line_2_7, SIGN_134 -> SignDrawable(R.drawable.v2_7, 2f, 1f)
+            SIGN_6_9_1 -> SignDrawable(R.drawable.a6_9_1, 2f, 1f)
+            SIGN_6_9_2 -> SignDrawable(R.drawable.a6_9_2, 1.8f, 1f)
             SIGN_6_9_3 -> SignDrawable(R.drawable.a6_9_3, 1f, 1f)
-            SIGN_6_11 -> SignDrawable(R.drawable.a6_11, 1f, 1f, )
-            SIGN_6_12 -> SignDrawable(R.drawable.a6_12, 1f, 1f, )
-            SIGN_6_10_1 -> SignDrawable(R.drawable.a6_10_1, 1.6f, 1f, )
-            SIGN_6_10_2 -> SignDrawable(R.drawable.a6_10_2, 2.2f, 1f, )
+            SIGN_6_11 -> SignDrawable(R.drawable.a6_11, 1f, 1f)
+            SIGN_6_12 -> SignDrawable(R.drawable.a6_12, 1f, 1f)
+            SIGN_6_10_1 -> SignDrawable(R.drawable.a6_10_1, 1.6f, 1f)
+            SIGN_6_10_2 -> SignDrawable(R.drawable.a6_10_2, 2.2f, 1f)
             SIGN_3_26, SIGN_135 -> SignDrawable(R.drawable.a3_26, 1f, 1f)
             SIGN_1_29, SIGN_136 -> SignDrawable(R.drawable.a1_29, 1f, 1f)
             SIGN_1_33, SIGN_137 -> SignDrawable(R.drawable.a1_33, 1f, 1f)
@@ -199,9 +199,9 @@ class PDDSignDrawableProviderNew {
             SIGN_3_16, SIGN_140 -> SignDrawable(R.drawable.a3_16, 1f, 1f)
             SIGN_4_1_6, SIGN_141 -> SignDrawable(R.drawable.a4_1_6, 1f, 1f)
             SIGN_1_5, SIGN_142 -> SignDrawable(R.drawable.a1_5, 1f, 1f)
-            Line_1_10,  SIGN_143 -> SignDrawable(R.drawable.h1_10, 4f, 1f)
+            Line_1_10, SIGN_143 -> SignDrawable(R.drawable.h1_10, 4f, 1f)
             SIGN_8_2_3, SIGN_144 -> SignDrawable(R.drawable.a8_2_3, 1f, 2.3f)
-            Line_1_25,   SIGN_145 -> SignDrawable(R.drawable.h1_25, 4f, 1f)
+            Line_1_25, SIGN_145 -> SignDrawable(R.drawable.h1_25, 4f, 1f)
             Line_1_15 -> SignDrawable(R.drawable.h1_15, 4f, 1f)
             Line_1_16_1 -> SignDrawable(R.drawable.h1_16_1, 4f, 1f)
             Line_1_16_2 -> SignDrawable(R.drawable.h1_16_2, 4f, 1f)
@@ -261,7 +261,7 @@ class PDDSignDrawableProviderNew {
             SIGN_186 -> SignDrawable(R.drawable.pov_left, 2f, 1f, 2.4f)
             SIGN_187 -> SignDrawable(R.drawable.pov_right, 2f, 1f, 2.4f)
             SIGN_188 -> SignDrawable(R.drawable.tormoz, 2f, 1f, 2.4f)
-            SIGN_5_15_7, SIGN_189 -> SignDrawable(R.drawable.a5_15_7, 1.7f, 1f, )
+            SIGN_5_15_7, SIGN_189 -> SignDrawable(R.drawable.a5_15_7, 1.7f, 1f)
             SIGN_5_15_8, SIGN_190 -> SignDrawable(R.drawable.a5_15_8, 2f, 1f)
             SIGN_5_15_4 -> SignDrawable(R.drawable.a5_15_4, 2f, 1f)
             Line_1_1, SIGN_191 -> SignDrawable(R.drawable.h1_1, 4f, 1f)
@@ -276,6 +276,15 @@ class PDDSignDrawableProviderNew {
             SIGN_4_1_3, SIGN_199 -> SignDrawable(R.drawable.a4_1_3, 1f, 1f)
             SIGN_4_1_5, SIGN_200 -> SignDrawable(R.drawable.a4_1_5, 1f, 1f)
             SIGN_201 -> SignDrawable(R.drawable.op_1, 2f, 1f, 2f)
+            SIGN_241 -> SignDrawable(R.drawable.op_4, 1f, 1f)
+            SIGN_242 -> SignDrawable(R.drawable.op_5, 1f, 1f)
+            SIGN_243 -> SignDrawable(R.drawable.op_6, 1f, 1f)
+            SIGN_244 -> SignDrawable(R.drawable.op_7, 1.5f, 1f)
+            SIGN_245 -> SignDrawable(R.drawable.op_8, 1f, 1f)
+            SIGN_246 -> SignDrawable(R.drawable.op_9, 1f, 1f)
+            SIGN_247 -> SignDrawable(R.drawable.op_10, 4f, 1f)
+            SIGN_248 -> SignDrawable(R.drawable.op_13, 1f, 1f)
+            SIGN_249 -> SignDrawable(R.drawable.op_11, 1f, 1f)
             SIGN_202 -> SignDrawable(R.drawable.ucheb, 1.8f, 1f, 2f)
             SIGN_203 -> SignDrawable(R.drawable.gab, 2f, 1f, 2f)
             SIGN_1_17, SIGN_204 -> SignDrawable(R.drawable.a1_17, 1f, 1f)
@@ -291,15 +300,15 @@ class PDDSignDrawableProviderNew {
             Line_1_24_6 -> SignDrawable(R.drawable.h1_24_6, 2f, 1f)
             Line_1_24_7 -> SignDrawable(R.drawable.h1_24_7, 2f, 1f)
             SIGN_6_14_1, SIGN_209 -> SignDrawable(R.drawable.a6_14_1, 2f, 1f)
-            SIGN_6_13, SIGN_210 -> SignDrawable(R.drawable.a6_13, 1.5f, 1f, )
+            SIGN_6_13, SIGN_210 -> SignDrawable(R.drawable.a6_13, 1.5f, 1f)
             Line_1_23_3, SIGN_211 -> SignDrawable(R.drawable.h1_23_3, 1.2f, 1f)
             Line_1_23_2 -> SignDrawable(R.drawable.h1_23_2, 1.2f, 1f)
             SIGN_3_22, SIGN_212 -> SignDrawable(R.drawable.a3_22, 1f, 1f)
-            Line_2_2,  SIGN_213 -> SignDrawable(R.drawable.v2_2, 2f, 1f)
+            Line_2_2, SIGN_213 -> SignDrawable(R.drawable.v2_2, 2f, 1f)
             Line_2_3 -> SignDrawable(R.drawable.v2_3, 2f, 1f)
             Line_2_4 -> SignDrawable(R.drawable.v2_4, 2f, 1f)
             Line_2_6 -> SignDrawable(R.drawable.v2_6, 2f, 1f)
-            Line_1_22,  SIGN_214 -> SignDrawable(R.drawable.h1_22, 4f, 1f)
+            Line_1_22, SIGN_214 -> SignDrawable(R.drawable.h1_22, 4f, 1f)
             SIGN_8_5_2, SIGN_215 -> SignDrawable(R.drawable.a8_5_2, 2f, 1f)
             SIGN_216 -> SignDrawable(R.drawable.a6_19_1, 1f, 1.4f)
             Line_1_6, SIGN_217 -> SignDrawable(R.drawable.h1_6, 4f, 1f)
@@ -707,7 +716,6 @@ class PDDSignDrawableProviderNew {
         const val Line_2_6 = "XZline_2_6XZ"
         const val Line_2_7 = "XZline_2_7XZ"
 
-
         const val SIGN_8_1_1 = "XZsign_8_1_1XZ"
         const val SIGN_8_1_2 = "XZsign_8_1_2XZ"
         const val SIGN_8_1_3 = "XZsign_8_1_3XZ"
@@ -1029,5 +1037,14 @@ class PDDSignDrawableProviderNew {
         const val SIGN_238 = "XZзнак832XZ"
         const val SIGN_239 = "XZзнак833XZ"
         const val SIGN_240 = "XZразметка1171XZ"
+        const val SIGN_241 = "XZop_4XZ"
+        const val SIGN_242 = "XZop_5XZ"
+        const val SIGN_243 = "XZop_6XZ"
+        const val SIGN_244 = "XZop_7XZ"
+        const val SIGN_245 = "XZop_8XZ"
+        const val SIGN_246 = "XZop_9XZ"
+        const val SIGN_247 = "XZop_10XZ"
+        const val SIGN_248 = "XZop_13XZ"
+        const val SIGN_249 = "XZop_11XZ"
     }
 }
