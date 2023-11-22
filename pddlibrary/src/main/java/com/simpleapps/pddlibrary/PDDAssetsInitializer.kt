@@ -32,16 +32,16 @@ class PDDAssetsInitializer : Initializer<PDDAssetsInitializer.PDDTextProvider> {
             var isInitialized = false
             var assets: AssetManager? = null
 
-            fun getAssetsByChapterNumber(num: String): PDDDto? {
-                assets?.let {
-                    val jsonString: String =
-                        it.open("2022/$num.json", AssetManager.ACCESS_STREAMING)
-                            .bufferedReader()
-                            .use { it.readText() }
-                    return Json.decodeFromString<PDDDto>(jsonString)
-                }
-                return null
-            }
+//            fun getAssetsByChapterNumber(num: String): PDDDto? {
+//                assets?.let {
+//                    val jsonString: String =
+//                        it.open("2022/$num.json", AssetManager.ACCESS_STREAMING)
+//                            .bufferedReader()
+//                            .use { it.readText() }
+//                    return Json.decodeFromString<PDDDto>(jsonString)
+//                }
+//                return null
+//            }
         }
     }
 }
